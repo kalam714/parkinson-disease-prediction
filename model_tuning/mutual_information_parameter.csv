@@ -1,0 +1,6 @@
+,model,best_params,best_score
+0,svm,"{'C': 1, 'kernel': 'poly'}",0.8049999999999999
+1,decision_tree,"{'criterion': 'gini', 'max_depth': 5, 'min_samples_split': 0.2777777777777778, 'random_state': 4, 'splitter': 'random'}",0.9225000000000001
+2,random_forest,"{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'min_samples_split': 0.23333333333333334, 'n_estimators': 10, 'random_state': 4}",0.9225
+3,extra_tree,"{'criterion': 'gini', 'max_depth': 8, 'max_features': 'auto', 'min_samples_split': 0.23333333333333334, 'n_estimators': 1, 'random_state': 7}",0.9475000000000001
+4,logistic_regression,{'C': 5},0.7649999999999999

@@ -1,0 +1,2 @@
+,model,best_params,best_score
+0,xgb,"{'booster': 'gblinear', 'learning_rate': 1, 'max_depth': 3, 'min_samples_split': 0.5}",0.8049999999999999

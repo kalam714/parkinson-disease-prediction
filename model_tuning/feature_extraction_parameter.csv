@@ -1,0 +1,6 @@
+,model,best_params,best_score
+0,svm,"{'C': 1, 'kernel': 'poly'}",0.805
+1,decision_tree,"{'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.1, 'random_state': 4, 'splitter': 'best'}",0.908333333
+2,random_forest,"{'criterion': 'entropy', 'max_depth': 5, 'max_features': 'auto', 'min_samples_split': 0.23333333333333334, 'n_estimators': 5, 'random_state': 5}",0.935
+3,extra_tree,"{'criterion': 'entropy', 'max_depth': 5, 'max_features': 'log2', 'min_samples_split': 0.23333333333333334, 'n_estimators': 5, 'random_state': 6}",0.9225
+4,logistic_regression,{'C': 5},0.78
